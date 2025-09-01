@@ -1,0 +1,8 @@
+streamlit==1.29.0
+requests==2.31.0
+icalendar==5.0.12
+websockets==12.0
+python-dotenv==1.0.1
+agno
+npx @openbnb/mcp-server-airbnb
+npx @gongrzhe/server-travelplanner-mcp
