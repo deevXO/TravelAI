@@ -5,4 +5,5 @@ websockets==12.0
 python-dotenv==1.0.1
 agno
 mcp
-google-generativeai
+google-genai
+
